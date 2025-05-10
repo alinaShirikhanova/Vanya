@@ -11,9 +11,6 @@ marks = [5, 'Vanya', True, 5, 4, 4, 4, 5, 4, 4]
 
 print(marks[4])
 
-
-
-
 mark1 = 3
 mark2 = 2
 
