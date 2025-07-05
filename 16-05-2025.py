@@ -8,7 +8,6 @@ for i in range(6):
     if lst[i] > maxi:
         maxi = lst[i]
 
-
 # if lst[0] > maxi:
 #     maxi = lst[0]
 # if lst[1] > maxi:

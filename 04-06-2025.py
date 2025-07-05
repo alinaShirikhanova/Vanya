@@ -37,12 +37,11 @@ cities = [
 # used_cities.append('Vanya1')
 # used_cities.append('Vanya2')
 # used_cities.append('Vanya3')
-
-user_choice = 'London'
-last_letter = user_choice[-1]
-
-
-
-
-
-
+# 'LondoN'
+# user_choice = 'New York'
+# current_last = 'N'
+# current_first = user_choice[0]
+# if current_last != '' and current_first.lower() and current_last.lower()
+# city = 'london'
+# city = city.upper()
+# print(city)
